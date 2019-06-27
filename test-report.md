@@ -1,6 +1,7 @@
 
 # 易闲圈测试报告 #
 
+[正常显示格式的测试文档](https://gitee.com/zhangyzh36/system_analysis_and_design/blob/%E5%AE%9E%E8%AE%AD%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A/README.md)
 
 * 目录
   * [测试参考文档](#reference)
